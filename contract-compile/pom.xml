@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.qinest</groupId>
         <artifactId>jdchain-demo</artifactId>
-        <version>1.3.0.RELEASE</version>
+        <version>1.4.0.RELEASE</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>contract-compile</artifactId>
@@ -65,8 +65,8 @@
 
                         <!-- 签名信息，必选项，任何一个合约发布都需要拥有者进行签名 -->
                         <signer>
-                            <pubKey>3snPdw7i7PfxYpFWXUhLSfRXaW3UFr9xQoJscAfooDQy2et3AxY15S</pubKey>
-                            <privKey>177gjtR7P19Y36yJsSdQEYmjA4ghiPZeL6xkZ1aKU1bJbqeN4fw4Z4ecCigTS2eNFB8zQGn</privKey>
+                            <pubKey>3snPdw7i7PicaDXNZFS3RcVApmeiMVfwjZzsNTyCQKGXZXJastfgVD</pubKey>
+                            <privKey>177gjwxwQDCqMnRYRKqHnBnffDc338zgMH8pxxaDG4w7i4ZhK418RoME7RVPtVHuBcrnse3</privKey>
                             <privKeyPwd>8EjkXVSTxMFjCvNNsTo8RBMDEVQmk7gYkW4SCDuvdsBG</privKeyPwd>
                         </signer>
                     </deployment>
